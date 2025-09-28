@@ -233,14 +233,9 @@ Your machine learning model is now connected to your Watson Assistant. You can c
 
 ![solution final gif](images/assitant.gif)
 
-### Integrate IBM Watson Assistant with WhatsApp
+### Integrate IBM Watson Assistant with WhatsApp with Twilio
 
 Follow the instructions in the tutorial "[Update your chatbot on WhatsApp with IBM Watson Assistant](https://developer.ibm.com/tutorials/integrating-ibm-watson-assistant-with-whatsapp/)" and then you should be all set. The Assistant is now integrated with WhatsApp through Twilio. From your device, send a WhatsApp message to the WhatsApp sandbox number, and you should receive the Assistant's response.
+<img width="1400" height="1635" alt="1" src="https://github.com/user-attachments/assets/bf37233c-46cd-4094-a554-3be99eaf7ef8" />
 
 ![solution final gif](images/whatsapp-solution-final.gif)
-
-## Summary
-
-In this tutorial, you were able to successfully generate machine learning pipelines through the AutoAI project. You then learned how to create IBM Cloud Functions and run small code snippets easily without having to deploy a full application. You integrated your Watson Assistant with WhatsApp through Twilio. Because this is a tutorial, we used WhatsApp-Twilio sandbox to illustrate how this integration works. If you want to use WhatsApp and Twilio with the Watson Assistant for a real use case, then you need to have a premium Twilio Account and a Facebook Business Manager ID and apply for permission. You can find more information about this in <a href="https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-whatsapp" target="_blank" rel="noopener noreferrer">Integrating with WhatsApp</a>.
-
-reference: https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp.git
